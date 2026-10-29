@@ -33,3 +33,7 @@ At first almost every test fails: that is expected. Each method you finish turns
 - Use string interpolation: `$"<{elementName}>{content}</{elementName}>"`.
 - `IndexOf` finds a character, `Substring` cuts, `Split` breaks text into words.
 - A string never changes: keep the result of `ToLower()`, `Trim()` and the rest.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
