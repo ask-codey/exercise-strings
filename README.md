@@ -1,8 +1,8 @@
-# Practice: Strings
+# Exercise: Strings
 
-Practice code for the lesson **Practice: Strings** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: Strings** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
-Fifteen string problems, in three classes in the `StringsPractice` project:
+Fifteen string problems, in three classes in the `StringsExercise` project:
 
 - `Markup.cs`: changing case, and building HTML and XML
 - `NameFormatter.cs`: formatting, rearranging and turning names into usernames
@@ -13,10 +13,10 @@ Every method returns `""` (or another wrong answer) for now. The comment above e
 ## Run it
 
 ```bash
-dotnet run --project StringsPractice
+dotnet run --project StringsExercise
 ```
 
-In Visual Studio, open `StringsPractice.slnx` and press **Ctrl+F5**. `Program.cs` calls a few of your methods, so you can try them out.
+In Visual Studio, open `StringsExercise.slnx` and press **Ctrl+F5**. `Program.cs` calls a few of your methods, so you can try them out.
 
 ## Check your work
 
